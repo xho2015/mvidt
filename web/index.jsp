@@ -12,7 +12,7 @@
   </head>
   <body>
   <%
-    int i = 10;
+    int i = 12; //edit in page
     out.println(i);
     out.println(new java.util.Date());
   %>
