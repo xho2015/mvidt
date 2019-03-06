@@ -11,6 +11,10 @@
     <title>Fix0306 title</title>
   </head>
   <body>
-  $END$
+  <%
+    int i = 10;
+    out.println(i);
+    out.println(new java.util.Date());
+  %>
   </body>
 </html>
