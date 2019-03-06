@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Fix0306 title ver2</title>
+    <title>Fix0306 title ver2 - 2.1</title>
   </head>
   <body>
   <%
