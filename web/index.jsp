@@ -8,9 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Maven Git test</title>
   </head>
   <body>
-  $END$
+  <%
+    int i = 10;
+    out.println(i);
+    out.println(new java.util.Date());
+  %>
   </body>
 </html>
